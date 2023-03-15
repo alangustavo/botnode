@@ -1,0 +1,2 @@
+# botnode
+NodeJS Bot
